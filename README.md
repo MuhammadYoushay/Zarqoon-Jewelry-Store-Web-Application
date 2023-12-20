@@ -13,8 +13,8 @@ Modern Front End: Incorporating modern web technologies (HTML, CSS, JAVASCRIPT) 
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/your-repository.git
-Install dependencies: npm install
-Run the application: npm start
+Clone the repository: git clone https://github.com/your-username/your-repository.git.
+Install dependencies: npm install.
+Run the application: npm start.
 Explore the project, contribute, and customize as needed. Feel free to reach out for any questions or improvements!
 
